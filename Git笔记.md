@@ -8,7 +8,7 @@ git config --global user.name "YourName"
 git config --global user.email "your@email.com"
 ```
 
-> ✅ **说明**：设置全局用户名和邮箱，用于标识提交者身份。
+> ✅ **说明**：设置全局用户名和邮箱，用于标识提交者身份
 
 查看当前配置：
 
