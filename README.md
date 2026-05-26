@@ -1,6 +1,8 @@
 # Git 常用命令
 ---
-https://drive.google.com/file/d/1jS95zsQ9A8fx22svvH4zs4kBDSTrWS3j/view
+
+！[](https://drive.google.com/file/d/1jS95zsQ9A8fx22svvH4zs4kBDSTrWS3j/view)
+
 # 一、基础配置
 
 ```bash
