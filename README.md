@@ -1,7 +1,7 @@
 # Git 常用命令
 ---
 
-![替代文本](https://drive.google.com/uc?export=view&id=1jS95zsQ9A8fx22svvH4zs4kBDSTrWS3j)
+![替代文本](https://drive.google.com/file/d/1-wPpkJIfbvLoJZknKqLt6wOgwh4IrXWd/view?usp=drivesdk)
 
 
 # 一、基础配置
